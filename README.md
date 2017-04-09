@@ -1,2 +1,2 @@
 # RestaurantSimulator
-Simulate your restaurant before actually opening it.
+## Simulate your restaurant before actually opening it.
